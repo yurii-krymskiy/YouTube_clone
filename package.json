@@ -2,7 +2,7 @@
   "name": "project-1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://yurii-krymskiy.github.io/YouTube_clone/",
+  "homepage": "https://yurii-krymskiy.github.io/YouTube_clone",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
